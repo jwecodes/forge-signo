@@ -21,7 +21,7 @@ The signatures are compared using structural_similarity in skimage.metrics packa
 2.`python signature.py`
 
 ## future possiblities
-to cfreate an ml model for advance version or to create an application for smartphones(basic code and idea is presented here)
+to create an ml model for advance version or to create an application for smartphones(basic code and idea is presented here)
 
 
 ## Please open an issue if
