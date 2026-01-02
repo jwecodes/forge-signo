@@ -9,7 +9,7 @@ The signatures are compared using structural_similarity in skimage.metrics packa
 
 
 ## Prerequisites
-1. Python =3.10.7
+1. Python 
 2. OpenCV
 3. numpy
 4. Scikit-image
